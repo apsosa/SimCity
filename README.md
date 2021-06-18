@@ -16,4 +16,4 @@ agregar más de una en el mismo turno.
 para evitar la depresión de quienes juegan, tampoco se solapan las construcciones de nivel máximo de
 cualquiera de las partidas con otras construcciones.
 
-El poyecto esta implementado en C++ y viene con un casos test propias que verifican su funcionamiento.
+El poyecto esta implementado en C++, siguiento la especificacion de los tipos abstractos de datos definidos en la carpera Especificacion, con el diseño propuesto incluido en la carpeta diseño. Ademas viene con un casos test propios que verifican su funcionamiento.
