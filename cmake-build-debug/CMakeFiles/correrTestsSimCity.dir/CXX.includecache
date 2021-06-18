@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/Tipos.h
+
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/aed2_Mapa.h
+iostream
+-
+Tipos.h
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/Tipos.h
+set
+-
+tuple
+-
+
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/aed2_SimCity.cpp
+aed2_SimCity.h
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/aed2_SimCity.h
+
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/aed2_SimCity.h
+iostream
+-
+set
+-
+aed2_Mapa.h
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/src/aed2_Mapa.h
+map
+-
+

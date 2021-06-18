@@ -1,0 +1,8 @@
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrTestsMapa.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrValgrindMapa.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrTestsSimCity.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/gtest.dir
+/home/nowe/algo2-2020c1-grupal/tpg4/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrValgrindSimCity.dir
