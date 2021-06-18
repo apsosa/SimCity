@@ -1,5 +1,5 @@
 # SimCity
-Este proyecto plantea modelar una lógica simplificada del juego (SimCity de 1989)[https://www.youtube.com/watch?v=A54blk-ojA4].
+Este proyecto plantea modelar una lógica simplificada del juego [SimCity de 1989](https://www.youtube.com/watch?v=A54blk-ojA4).
 El SimCity es un juego de simulador de la vida y crecimiento de las ciudades.
 
 - En nuestra versión del juego, las partidas comienzan con un mapa ya definido. Un mapa puede considerarse
