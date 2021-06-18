@@ -15,3 +15,5 @@ agregar más de una en el mismo turno.
 -Partidas colaborativas: dos partidas de SimCity se pueden unirse en una nueva. Esta acción deberá hace concoordar los rios y construcciones de ambas ciudades. Para que el mecanismo de unión sea constructivo y no destructivo, se restringio la posibilidad de unir dos SimCitys a los casos donde no se solapen rı́os con construcciones. Además,
 para evitar la depresión de quienes juegan, tampoco se solapan las construcciones de nivel máximo de
 cualquiera de las partidas con otras construcciones.
+
+El poyecto esta implementado en C++ y viene con un casos test propias que verifican su funcionamiento.
